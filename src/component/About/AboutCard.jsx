@@ -10,11 +10,11 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Shivam Yadav </span>
             from <span className="purple"> Jabalpur, India.</span>
-            <br /> A skilled web developer having 1 year of experience in
+            <br /> A skilled web developer having 3 years of experience in
             developing customer-facing frontend applications.
             <br />
             Additionally, I am currently employed as a software developer at
-            INOFFICE LABS Pvt Ltd.
+            Nuvolo.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
