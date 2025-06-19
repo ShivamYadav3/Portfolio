@@ -36,7 +36,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern JavaScript Libraries and Frameworks
                 </b>
               </i>
               &nbsp; like
@@ -45,7 +45,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              You can reach out to me at
+{/*               You can reach out to me at
               <br />
               <b className="purple">
                 {" "}
@@ -54,7 +54,7 @@ function Home2() {
                 <br />
                 <AiOutlineMobile />
                 &nbsp; 8982296937
-              </b>
+              </b> */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -81,7 +81,7 @@ function Home2() {
                 </a>
               </li>
 
-              <li className="social-icons">
+{/*               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/shivamyadav3/"
                   target="_blank"
@@ -90,7 +90,7 @@ function Home2() {
                 >
                   <FaLinkedinIn />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>
